@@ -1,0 +1,8 @@
+,en,bn
+question,How many types of chemical compounds?,রাসায়নিক যৌগ মোট কত প্রকার ?
+context,"In biology, a biological life cycle (or just life cycle when the biological context is clear) is a series of changes in form that an organism undergoes, returning to the starting state. ""The concept is closely related to those of the life history, development and ontogeny, but differs from them in stressing renewal."" Transitions of form may involve growth, asexual reproduction, or sexual reproduction. In some organisms, different ""generations"" of the species succeed each other during the life cycle. For plants and many algae, there are two multicellular stages, and the life cycle is referred to as alternation of generations.","রাসায়নিক যৌগ হল একপ্রকারের পদার্থ যা দুই বা ততোধিক ভিন্ন মৌলিক উপাদানের মধ্যে রাসায়নিক বন্ধনের মাধ্যমে গঠিত হয়। মৌলিক উপাদানসমূহ নির্দিষ্ট ভরের অনুপাতে যুক্ত হয়ে রাসায়নিক যৌগ গঠন করে এবং যৌগ ভাঙ্গলে এর মৌলিক উপাদানসমূহ পাওয়া যায়। কিছু ব্যতিক্রমী রাসায়নিক যৌগ রয়েছে যা উপরোক্ত সংজ্ঞা অনুসরণ করে না। কিছু নির্দিষ্ট স্ফটিক আকারের যৌগ non-stoichiometric; কারণ তাদের স্ফটিক গঠনে অন্য উপাদানের উপস্থিতি (বা আটকে পরা উপাদান) অনুসারে এদের সংযুক্তিতে পার্থক্য হয়। রাসায়নিক ভাবে অভিন্ন কিছু যৌগের গাঠণিক উপাদানের বিভিন্ন পরিমাণে ভারী বা হালকা আইসোটোপ থাকতে পারে, যার কারণে যৌগ গঠনকারী উপাদানসমূহের ভরের অনুপাত কিঞ্চিত পরিবর্তিত হয়। তাই এ যৌগসমূহ পুরাপুরি সমগোত্রীয়"
+answers,"['About six million.', 'Four types']","['প্রায় ষাট মিলিয়ন', 'চার প্রকার']"
+lang,en,bn
+source_lang,bn,bn
+score,36.07033,43.12717
+pred_answer,two,এক

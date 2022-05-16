@@ -1,0 +1,8 @@
+,es,en,zh,ja
+question,¿La Virgen de Mejurière emerge de fuentes no cristianas?,Does the Virgin of Mejurière emerge from non-Christian sources?,Mejurière的处女是否来自非基督教来源?,メジュゴリエの聖母はキリスト教徒以外の元にも出現しますか？
+context,"Jerusalén, la dormición de María tuvo lugar en el monte de Sion. Así lo recuerda la Iglesia católica de la Abadía de Hagia María.","in body and soul was purified by the Holy Ghost, He came forth as God with that which He had assumed, One Person in two Natures, Flesh and Spirit, of which the latter defined the former."" The Orthodox celebrate the Dormition of the Theotokos, rather than Assumption. The Protoevangelium of James, an extra-canonical book, has been the source of many Orthodox beliefs on Mary. The account of Mary's life presented includes her consecration as a virgin at the temple at age three. The High Priest Zachariah blessed Mary and informed her that God had magnified her name among many generations.",不同的是，她並沒有公關人員，且不喜歡張揚自己的私人生活，此外，她是一位虔誠的天主教徒，至今仍然與家人一起參加天主教彌撒。,とは異なり、年端に達しない一名を除くと16歳から18歳までの流行を追う現代風のごく普通の少年少女であり、彼らは「聖母」の出現を受けた後も、その生活様式を殆ど変えることはしなかった。後述するように、むしろ巡礼者の落とす資金をもとに豪奢な生活を送っている。これは他の聖母の出現の幻視者たちと最も異なっている点で
+answers,['Sí'],['yes'],['是 是'],['yes']
+lang,es,en,zh,ja
+source_lang,ja,ja,ja,ja
+score,42.740566,45.515686,41.594162,48.640976
+pred_answer,fuentes no cristianas,Orthodox,"不同的是,她並沒有公關人員,且不喜歡張揚自己的私人生活,此外,她是一位虔誠的天主教",メジュゴリエ

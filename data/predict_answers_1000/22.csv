@@ -1,0 +1,8 @@
+,en,bn
+question,Which emperor grew the size of China’s empire most?,কোন সম্রাটের সময় চিন সাম্রাজ্যের আয়তন সবচেয়ে বেশি বৃদ্ধি পায় ?
+context,"481, the Tian chief killed a puppet duke, most of the ruler's family, and a number of rival chiefs. He took control of most of the state and left the Duke with only the capital of Linzi and the area around Mount Tai. In 386, the House of Tian fully replaced the House of Jiang as rulers of Qi. In 221, Qi was the last of the warring states to be conquered by Qin, thereby putting an end to the wars and uniting China under the Qin Dynasty. Before Qin unified China, each state had its own customs and culture.","লিউ ইয়ুর সামরিক অভিযানের পূর্ব পর্যন্ত তার সমাধান করতে অসমর্থ হয়। লিউ ইয়ু ৪০৬ সালে হুয়ান সুয়ানকে পরাজিত করে এবং পরবর্তী কিন, সিয়া, দক্ষিণ ইয়ান, ও উত্তর ওয়েই রাজ্যের বিরুদ্ধে কয়েকটি সামরিক অভিযান চালায়। সিয়া ব্যতীত সবকটি অভিযান সফল হয়। এইসব যুদ্ধ জয়ের ফলে লিউ চীনের প্রধান অংশ দখল এবং হুয়াংহো নদীর তীরে উত্তর সীমানা ঠিক করার সুযোগ পায়। এছাড়া এইসব যুদ্ধ জয়ে লিউ ইয়ুর সম্মান ও ক্ষমতা বৃদ্ধি পায় এবং ৪২০ সালে চিন সাম্রাজ্য দখল করে। এরই মধ্য দিয়ে চিন সামাজ্যের পতন হয়। লিউ ইয়ু ও তার পুত্রের শাসনামলে চিন সাময়িক সোনালি সময় পার করে, যা লিউ সং রাজবংশের"
+answers,"['Kyanlong', 'None']","['কিয়ানলং', 'কিন']"
+lang,en,bn
+source_lang,bn,bn
+score,40.758102,42.6795
+pred_answer,Tian,লিউ ইয়ু

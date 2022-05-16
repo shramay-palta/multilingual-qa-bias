@@ -1,0 +1,8 @@
+,es,en,ko
+question,¿Dónde está el complejo químico SK en la ciudad?,Where is the SK chemical complex in the city?,SK화학 단지는 어느 도시에 있는가?
+context,"La Escuela de Artes de Seúl (서울예술고등학교) es una escuela privada que se localiza en Pyeongchang-dong, Jongno-gu, Seúl. La escuela fue fundada el 21 de marzo de 1953.","Skretting Aquaculture Research Centre A/S (Skretting ARC) was established in 1989, and is the central R&D unit for the global fish and shrimp feed concern Skretting, which is owned by Nutreco N.V. Nutreco’s head office is in Amersfoort, The Netherlands. Skretting ARC's main objective is to provide research and technical support regarding fish and shrimp feed. Skretting ARC has about 60 manyears of which about 45% have degrees corresponding to MSc or PhD level. It has an international staff representing 13 nationalities. It performs research for all feed companies within Skretting in Europe, North & South America, Asia and Australia.","지원 및 인근지역 환경정화 등을 정기적으로 펼치고 있다. 또한 매년 명절(설/추석)맞이 소외계층 기부 (1월, 10월), 벚꽃축제(4월), 부모님의 날 및 장수사진 촬영(5월), 서인천장학회 장학금 전달 (5월), 특수학생 문화체험행사(6월), 사랑의 떡 만들기 및 서구민의 날 야구관람(9월), 온누리상품권 지정기탁 (10월), 사랑의 김장김치 및 연탄나누기(11월) 등 계절별 지역주민과 함께 하는 행사를 개최하고 있으며 인천재능대학교와 연계한 노인일자리박람회(10월) 등 사회공헌행사를 실시하고 있다. SK인천석유화학은 1985년부터 현재까지 4월 초순 벚꽃 개화시기에 맞추어 공장 부지를 지역주민에 개방하는 벚꽃축제를 개최하고 있으며, 약 3만명 이상의 관람객이 방문한다. 부지 안에는 40년 이상 길러진 벚꽃나무, 밤나무, 배나무 등의 600그루가 있다. 사내에 약 1200m 정도의 등산로가 조성되어 있으며 벚꽃나무 군락지 인근에는 밤골 약수터, 테니스장,"
+answers,['Ciudad de Seúl'],['Seoul City'],['서울특별시']
+lang,es,en,ko
+source_lang,ko,ko,ko
+score,38.829285,40.25393,44.24319
+pred_answer,"Pyeongchang-dong, Jongno-gu, Seúl","Amersfoort, The Netherlands",서인천

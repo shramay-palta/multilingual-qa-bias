@@ -1,0 +1,8 @@
+,en,ko
+question,What does a plumber do?,배관공이 하는 일은 무엇인가?
+context,"A pack hunter or social predator is a predatory animal which hunts its prey by working together with other members of its species. Normally animals hunting in this way are closely related, and with the exceptions of chimpanzees where only males normally hunt, all individuals in a family group contribute to hunting. When hunting cooperation is across two or more species, the broader term cooperative hunting is commonly used. A well known pack hunter is the gray wolf; humans too can be considered pack hunters. Other pack hunting mammals include chimpanzees, dolphins, lions, dwarf and banded mongooses and spotted hyenas.","있는 경우가 많다. 용접 작업에 종사하는 사람 중에는 토시, 각반을 몸에 쓰기도 한다. 니커보커즈의 장비는 개인의 취향에 따르기 때문에, 배관공만의 것은 아니다. 파이프 렌치는 무겁기 때문에 허리에 매다는 일은 적다."
+answers,"['The installation and maintenance of the system used for drinking water, sewage, draining, etc.', 'We specialize in the installation and maintenance of the system used for drinking water, sewage, draining, etc.']","['마실 수 있는 물(음용수), 하수, 배수 등에 사용되는 시스템의 설치 및 유지보수', '배관 시스템을 통한 마실 수 있는 물(음용수), 하수, 배수 등에 사용되는 시스템의 설치 및 유지보수 전문']"
+lang,en,ko
+source_lang,ko,ko
+score,35.55544,42.3654
+pred_answer,a predatory animal which hunts its prey by working together with other members of its species,"니커보커즈의 장비는 개인의 취향에 따르기 때문에, 배관공만의 것은 아니다"

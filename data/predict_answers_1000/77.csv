@@ -1,0 +1,8 @@
+,en,ko
+question,When did the first violin come into being?,언제 최초의 바이올린이 발명되었는가?
+context,"was first isolated from wood by Finnish scientist, Koch, in 1881, but first became commercially viable, with a price close to sucrose, in 1930. Xylose is also the first saccharide added to the serine or threonine in the proteoglycan type O-glycosylation, and, so, it is the first saccharide in biosynthetic pathways of most anionic polysaccharides such as heparan sulfate and chondroitin sulfate. The acid-catalysed degradation of hemicellulose gives furfural, a specialty solvent in industry and a precursor to synthetic polymers. Xylose is metabolised by humans, although it is not a major human nutrient and is largely excreted by the kidneys.","분자생물학에서 바이오칩은 수백, 수천 개의 동시다발적인 생화학적인 반응을 수행할 수 있는 축소된 실험실을 의미한다. 바이오칩은 연구자들이 질병 진단부터 생화학적 테러까지 다양한 목적을 가지고 생물학적인 분석을 할 수 있도록 한다. 바이오 칩의 초기 발전은 센서 기술에 바탕을 두어 이루어졌다. 초기의 기초가 된 센서는 1922년에 Hughes에 의해 개발된 유리전극이었다. 예를 들어 하나의 K 센서는 얇은 막에 발리노마이신을 포함시켜 만든다. (Schultz, 1996) 1953년에 왓슨과 크릭은 현재의 DNA 분자의 이중나선 구조를 발견한 것을 발표하였고, 현재까지 지속되는 유전학적인 연구의 기반을 마련하였다.(Nelson, 2000). 1977년에 길버트에 의해 시퀀싱 기술이 발달하게 되었으며 (Maxam, 1977) 생어에 의해 최초의 염기 서열 분석법을 개발되었다.(Sanger, 1977)"
+answers,['16th century C.E.'],['16세기']
+lang,en,ko
+source_lang,ko,ko
+score,33.733444,42.0726
+pred_answer,1881,1922년
